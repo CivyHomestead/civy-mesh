@@ -1,0 +1,10 @@
+{
+  "version": 101,
+  "files": [
+    "main.py",
+    "quorum.py",
+    "node_engine.py",
+    "button.py",
+    "ota_updater.py"
+  ]
+}
